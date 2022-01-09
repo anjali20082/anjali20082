@@ -14,8 +14,7 @@ I am **Anjali**. I am a Computer Science enthusiast, pursuing masters in Compute
 - 👯 I’m looking to collaborate on **Python and React Native projects**
 - 🤝 I’m looking for help with **getting started with open source contribution**
 - 👨‍💻 All of my projects are available at [https://github.com/anjali20082](https://github.com/anjali20082)
-<!-- - 📝 I regularly write articles on [coming soon](coming soon) -->
-- 💬 Ask me about **Getting started with Python and Data Science**
+<!-- - 📝 I regularly write articles on [coming soon](coming soon) -->- 💬 Ask me about **Getting started with Python and Data Science**
 - 📫 How to reach me **Just drop me a message on LinkedIn.**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing](https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing)
 <!-- - ⚡ Fun fact **I always think I need to learn more!** -->
@@ -30,11 +29,11 @@ I am **Anjali**. I am a Computer Science enthusiast, pursuing masters in Compute
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&theme=buefy"&show_icons=true&locale=en&layout=compact" alt="anjali20082" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&theme=buefy"&show_icons=true&locale=en&layout=compact" alt="anjali20082" /> -->
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&show_icons=true&locale=en&layout=compact" alt="anjali20082" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&show_icons=true&locale=en&layout=compact&theme=buefy" alt="anjali20082" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali20082&show_icons=true&locale=en" alt="anjali20082" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali20082&show_icons=true&locale=en" alt="anjali20082" />
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali20082&" alt="anjali20082" /></p> -->
 
