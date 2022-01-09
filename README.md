@@ -14,9 +14,10 @@ I am **Anjali**. I am a Computer Science enthusiast, pursuing masters in Compute
 - 👯 I’m looking to collaborate on **Python and React Native projects**
 - 🤝 I’m looking for help with **getting started with open source contribution**
 - 👨‍💻 All of my projects are available at [https://github.com/anjali20082](https://github.com/anjali20082)
-<!-- - 📝 I regularly write articles on [coming soon](coming soon) -->- 💬 Ask me about **Getting started with Python and Data Science**
+- 💬 Ask me about **Getting started with Python and Data Science**
 - 📫 How to reach me **Just drop me a message on LinkedIn.**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing](https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing)
+<!-- - 📝 I regularly write articles on [coming soon](coming soon) -->
 <!-- - ⚡ Fun fact **I always think I need to learn more!** -->
 
 <h3 align="left">Connect with me:</h3>
@@ -37,18 +38,3 @@ I am **Anjali**. I am a Computer Science enthusiast, pursuing masters in Compute
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali20082&" alt="anjali20082" /></p> -->
 
-
-<!--
-**anjali20082/anjali20082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
