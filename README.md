@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+- I am **Anjali**. I am a Computer Science enthusiast, pursuing masters in Computer Science from IIIT Delhi. I have earlier worked on Data Science, ML and Android projects. I like exploring new ideas and finding ways to implement them.
 
 <!--
 **anjali20082/anjali20082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
