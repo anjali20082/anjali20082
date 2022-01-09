@@ -13,10 +13,11 @@ I am a Computer Science enthusiast, pursuing masters in Computer Science from II
 - 🌱 I’m currently learning **Django and React Native.**
 - 👯 I’m looking to collaborate on **Python and React Native projects.**
 - 🤝 I’m looking for help with **getting started with open source contribution.**
-- 👨‍💻 All of my projects are available at [https://github.com/anjali20082](https://github.com/anjali20082)
 - 💬 Ask me about **Getting started with Python and Data Science.**
 - 📫 How to reach me **Just drop me a message on LinkedIn.**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing](https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing)
+- 😄 Pronouns: **She/Her**.
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing](https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing) -->
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/anjali20082](https://github.com/anjali20082) -->
 <!-- - 📝 I regularly write articles on [coming soon](coming soon) -->
 <!-- - ⚡ Fun fact **I always think I need to learn more!** -->
 
