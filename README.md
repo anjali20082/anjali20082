@@ -32,9 +32,7 @@ I am **Anjali**. I am a Computer Science enthusiast, pursuing masters in Compute
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&theme=buefy"&show_icons=true&locale=en&layout=compact" alt="anjali20082" /> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&show_icons=true&locale=en&layout=compact&theme=buefy" alt="anjali20082" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali20082&show_icons=true&locale=en" alt="anjali20082" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&show_icons=true&locale=en&layout=compact&theme=buefy" alt="anjali20082" /></p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali20082&show_icons=true&locale=en" alt="anjali20082" />
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali20082&" alt="anjali20082" /></p> -->
 
