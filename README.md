@@ -9,11 +9,9 @@ I am a Computer Science enthusiast, pursuing masters in Computer Science from II
 
 <!-- <p align="left"> <a href="https://twitter.com/anjalijain06" target="blank"><img src="https://img.shields.io/twitter/follow/anjalijain06?logo=twitter&style=for-the-badge" alt="anjalijain06" /></a> </p> -->
 
-- 🔭 I’m currently working on **a project that evaluates performance of Android apps based on response times.**
 - 🌱 I’m currently learning **Django and React Native.**
 - 👯 I’m looking to collaborate on **Python and React Native projects.**
 - 🤝 I’m looking for help with **getting started with open source contribution.**
-- 💬 Ask me about **Getting started with Python and Data Science.**
 - 📫 How to reach me **Just drop me a message on LinkedIn.**
 - 😄 Pronouns: **She/Her**.
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing](https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing) -->
