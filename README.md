@@ -1,6 +1,6 @@
 ### Hi, I am **Anjali**! 👋
 
-I am a Computer Science enthusiast, pursuing masters in Computer Science from IIIT Delhi. I have earlier worked on Data Science, ML and Android projects. I like exploring new ideas and finding ways to implement them.
+I am a Computer Science enthusiast, pursuing masters in Management Information Systems at University at Buffalo. I have earlier worked on Data Science, ML and Android projects. I like exploring new ideas and finding ways to implement them.
 
 <!-- <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A Computer Science Engineer from India</h3> -->
