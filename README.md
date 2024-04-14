@@ -9,8 +9,6 @@ I am a Computer Science enthusiast, pursuing masters in Management Information S
 
 <!-- <p align="left"> <a href="https://twitter.com/anjalijain06" target="blank"><img src="https://img.shields.io/twitter/follow/anjalijain06?logo=twitter&style=for-the-badge" alt="anjalijain06" /></a> </p> -->
 
-- 🌱 I’m currently learning **Django and React Native.**
-- 👯 I’m looking to collaborate on **Python and React Native projects.**
 - 🤝 I’m looking for help with **getting started with open source contribution.**
 - 📫 How to reach me **Just drop me a message on LinkedIn.**
 - 😄 Pronouns: **She/Her**.
