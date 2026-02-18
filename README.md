@@ -1,7 +1,6 @@
 ### Hi, I am **Anjali**! 👋
 
-I am a Computer Science enthusiast, pursuing masters in Management Information Systems at University at Buffalo. I have earlier worked on Data Science, ML and Android projects. I like exploring new ideas and finding ways to implement them.
-
+I am a Computer Science enthusiast, currently working at Goldman Sachs.
 <!-- <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A Computer Science Engineer from India</h3> -->
 
@@ -9,7 +8,7 @@ I am a Computer Science enthusiast, pursuing masters in Management Information S
 
 <!-- <p align="left"> <a href="https://twitter.com/anjalijain06" target="blank"><img src="https://img.shields.io/twitter/follow/anjalijain06?logo=twitter&style=for-the-badge" alt="anjalijain06" /></a> </p> -->
 
-- 🤝 I’m looking for help with **getting started with open source contribution.**
+
 - 📫 How to reach me **Just drop me a message on LinkedIn.**
 - 😄 Pronouns: **She/Her**.
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing](https://drive.google.com/file/d/1BSwZbI2AZTCzZPHCocCrvLNWIdrXLtxT/view?usp=sharing) -->
