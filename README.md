@@ -23,13 +23,4 @@ I am a Computer Science enthusiast, currently working at Goldman Sachs.
 <!-- <a href="https://www.leetcode.com/anj_132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anj_132" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&theme=buefy"&show_icons=true&locale=en&layout=compact" alt="anjali20082" /> -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali20082&theme=buefy" alt="anjali20082"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali20082&theme=buefy&show_icons=true&locale=en" alt="anjali20082" />
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali20082&" alt="anjali20082" /></p> -->
 
